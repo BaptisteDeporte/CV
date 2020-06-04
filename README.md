@@ -1,5 +1,15 @@
 # CV
 
+## Requierements
+
+Il vous faudra une version de node et de npm sur votre PATH. Si ce n'est pas fait, je vous invite à suivre ce lien pour Windows :
+https://nodejs.org/en/download/
+
+Et pour Linux : 
+```bash
+sudo apt-get install nodejs npm
+```
+
 ## Accéder au meilleur CV de tous les temps : 
 
 Après avoir pull le projet :
